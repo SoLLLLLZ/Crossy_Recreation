@@ -26,7 +26,7 @@ python main.py
 
 ## Features (Stages)
 
-- [x] Stage 1: Landing page with animated menu
+- [ ] Stage 1: Landing page with animated menu
 - [ ] Stage 2: Character movement and basic terrain
 - [ ] Stage 3: Infinite scrolling system
 - [ ] Stage 4: Multiple terrain types
@@ -48,18 +48,3 @@ Crossy_Recreation/
 └── game.py          # (Coming in Stage 2)
 ```
 
-## Current Progress
-
-**Stage 1 Complete** ✓
-- Project structure initialized
-- Animated landing page with floating decorations
-- Interactive play button with hover effects
-- Clean state management system
-- Pygame setup and main game loop
-
-## Next Steps
-
-Stage 2 will add:
-- Player character with grid-based movement
-- Basic isometric terrain rendering
-- Game state class
