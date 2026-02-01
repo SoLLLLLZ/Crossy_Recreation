@@ -11,6 +11,10 @@ my vision into the project at each individual step. AI also needs very very
 specific instructions so having the comprehensive plan and tech stack from 
 Cursor was super helpful. At that point it was easy to generate each step and test it.
 
+--Timestamp of first prompt: 3:20pm--
+--Timestamp of last prompt: 4:22pm--
+Total time: 1h 02min
+
 Here is a list of prompts: 
 
 ##Instructions for Cursor to generate implementation plan##
