@@ -38,13 +38,13 @@ python main.py
 
 ```
 Crossy_Recreation/
-├── main.py          # Entry point and game loop
-├── menu.py          # Landing page and menu system
-├── utils.py         # Constants and helper functions
-├── player.py        # (Coming in Stage 2)
-├── terrain.py       # (Coming in Stage 2)
-├── obstacles.py     # (Coming in Stage 5)
-├── coins.py         # (Coming in Stage 6)
-└── game.py          # (Coming in Stage 2)
+├── main.py          
+├── menu.py        
+├── utils.py        
+├── player.py       
+├── terrain.py       
+├── obstacles.py     
+├── coins.py         
+└── game.py          
 ```
 
